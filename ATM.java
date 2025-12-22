@@ -14,7 +14,6 @@ import java.time.format.DateTimeFormatter;
  */
 public class ATM extends JFrame {
     // UI components
-    private String ppopopuyt6777;
     private String ppopop;
     private CardLayout cards;
     private JPanel cardRoot;
