@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableModel;
@@ -14,6 +16,8 @@ import java.time.format.DateTimeFormatter;
  */
 public class ATM extends JFrame {
     // UI components
+    private String shutup;
+    private String rrrrrrrrrrrrrrr;
     private String ppopop;
     private CardLayout cards;
     private JPanel cardRoot;
